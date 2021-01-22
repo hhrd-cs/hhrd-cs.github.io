@@ -23,7 +23,7 @@ This week will cover basic Java concepts including printing output, primitive da
 
 ## Slides
 
-Integer feugiat scelerisque varius morbi enim. Risus pretium quam vulputate dignissim suspendisse. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Etiam non quam lacus suspendisse faucibus interdum. Et malesuada fames ac turpis egestas. Consequat mauris nunc congue nisi vitae. Enim neque volutpat ac tincidunt vitae semper quis. Amet dictum sit amet justo donec enim. Enim praesent elementum facilisis leo vel. Non enim praesent elementum facilisis leo vel fringilla est. Ultricies integer quis auctor elit. Dis parturient montes nascetur ridiculus mus mauris vitae. Vivamus arcu felis bibendum ut tristique et egestas. Velit laoreet id donec ultrices tincidunt arcu non. Urna neque viverra justo nec ultrices. Ac tortor vitae purus faucibus. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Sit amet commodo nulla facilisi nullam vehicula ipsum.
+You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1DPN6Ermx1-kvTVtlBA1MZ3cPgf6b2ushqpcQP3pJvzM/edit?usp=sharing).
 
 ## Classwork
 

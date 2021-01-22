@@ -7,13 +7,25 @@ nav_order: 1
 # Helping Hand Computer Science Program
 {: .fs-9 }
 
-A 10-week course teaching Java and Android App Development<br>
+A program teaching Java, Python, and Android App Development to refugee students in Jordan<br>
 {: .fs-6 .fw-300 }
 
-[Get started now](https://github.com/hhrd-cs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/hhrd-cs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/week-1.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/hhrd-cs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Lorem Ipsum
+## Java with App Development
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas egestas fringilla phasellus faucibus. Lacus vestibulum sed arcu non. Congue quisque egestas diam in arcu cursus. Ridiculus mus mauris vitae ultricies leo integer. Nunc non blandit massa enim nec dui nunc. Dolor sit amet consectetur adipiscing elit pellentesque. Viverra adipiscing at in tellus integer feugiat scelerisque. Enim eu turpis egestas pretium aenean. Commodo odio aenean sed adipiscing diam donec. Non arcu risus quis varius quam quisque id diam.
+In this 10 week course, students will learn how to use the object-oriented programming language Java and apply it in a hands-on group project. The students will learn Java through a lecture and practice format, and complete multiple exercises for homework. In the group project, students will build a mobile application of their choice using Android Studio. At the end of the course, students will present their mobile application to their classmates at a virtual App Fair. [Here](https://docs.google.com/document/d/15dzZFY-YwrDuhJfZL7RTMdi3OQg7TImaoDz-PdbCuxg/edit?usp=sharing) is the curriculum for the Java course.
+
+## Logistics
+
+Lessons will take place on Saturdays from 5:30 pm to 8:30 pm Jordan time for 2-3 hours via Zoom. The program starts on Jan 23, 2021. If students do not have their own laptops, a laptop will be provided to them.
+
+## Requirements
+
+The students or mentees must be in the 8th grade or higher. They must speak with a proficient level of English and be available for at least one video session per week. The mentors must be in the 11th grade or higher, taken the AP Computer Science A Exam, and demonstrated academic excellence in STEM subjects. This is a pilot program, but we hope to expand the program to include more students/mentees and mentors.
+
+## Contact
+
+Please contact [Rumaisa Abdulhai](mailto:rumaisa.abdulhai@gmail.com) with any questions you have about the program.

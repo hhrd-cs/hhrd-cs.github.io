@@ -3,6 +3,8 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: blue
 search_enabled: true
 
+logo: "/assets/images/hhrd-logo.png"
+
 # Aux links for the upper right navigation
 aux_links:
   "HHRD-CS on GitHub":
