@@ -1,4 +1,5 @@
 title: "HHRD CS"
+description: A computer science program for refugee students in Jordan
 remote_theme: pmarsceill/just-the-docs
 color_scheme: blue
 search_enabled: true
@@ -26,4 +27,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2019-2021 HHRD-CS.</a>"
+footer_content: "Copyright &copy; 2019-2021 Helping Hand for Relief & Development.</a>"
+
+plugins:
+  - jekyll-seo-tag

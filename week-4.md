@@ -10,6 +10,8 @@ nav_order: 5
 This week will cover how to create Arrays and how to use different kinds of loops, including for loops, while loops, and for-each loops in order to store data in them.
 {: .fs-6 .fw-300 }
 
+[Zoom Recording](https://us02web.zoom.us/j/87696875752?pwd=RTR1QU5DSFNKanpxNlJRVlR6dGYydz09){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View Code](https://github.com/hhrd-cs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 <details open markdown="block">
   <summary>
     Table of contents

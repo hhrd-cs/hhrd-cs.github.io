@@ -10,6 +10,8 @@ nav_order: 6
 This week will cover how to use built-in methods from wrapper classes such as String, Integer, Boolean, Double, Char, etc. to do simple tasks. We will also learn how to create custom methods of their own to make their code more organized.
 {: .fs-6 .fw-300 }
 
+[Zoom Recording](https://us02web.zoom.us/j/87696875752?pwd=RTR1QU5DSFNKanpxNlJRVlR6dGYydz09){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View Code](https://github.com/hhrd-cs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 <details open markdown="block">
   <summary>
     Table of contents
