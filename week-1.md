@@ -10,7 +10,7 @@ nav_order: 2
 This week will cover the importance and applications of CS and help you set up your laptop with the Intellij development environment and the JDK.
 {: .fs-6 .fw-300 }
 
-[Zoom Recording](https://us02web.zoom.us/j/87696875752?pwd=RTR1QU5DSFNKanpxNlJRVlR6dGYydz09){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View Code](https://github.com/hhrd-cs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Zoom Recording](https://youtu.be/Y_OLCs3CvTo){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View Slides](https://docs.google.com/presentation/d/1ipWeFaXpFtWCHixSQpluULDbgmrwiQ1bmXPCyaqg1mE/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <details open markdown="block">
   <summary>
