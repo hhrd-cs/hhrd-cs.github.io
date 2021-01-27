@@ -2,6 +2,8 @@
 layout: default
 title: Home
 nav_order: 1
+description: "An international computer science program teaching Java, Python, and Android App Develop to refugee students in Jordan run by volunteers for Helping Hand for Relief & Development (HHRD)"
+permalink: /
 ---
 
 # Helping Hand Computer Science Program
