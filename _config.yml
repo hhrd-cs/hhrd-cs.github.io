@@ -4,6 +4,9 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: blue
 search_enabled: true
 
+# allows links without .html extension
+permalink: pretty
+
 logo: "/assets/images/hhrd-logo.png"
 
 # Aux links for the upper right navigation
