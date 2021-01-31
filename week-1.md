@@ -10,8 +10,6 @@ nav_order: 2
 This week will cover the importance and applications of CS and help you set up your laptop with the Intellij development environment and the JDK.
 {: .fs-6 .fw-300 }
 
-[Zoom Recording](https://youtu.be/Y_OLCs3CvTo){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View Slides](https://docs.google.com/presentation/d/1ipWeFaXpFtWCHixSQpluULDbgmrwiQ1bmXPCyaqg1mE/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -26,6 +24,12 @@ This week will cover the importance and applications of CS and help you set up y
 ## Slides
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1ipWeFaXpFtWCHixSQpluULDbgmrwiQ1bmXPCyaqg1mE/edit?usp=sharing).
+
+## Zoom Recording
+
+Below is the zoom recording for Week 1.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_OLCs3CvTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Classwork
 
