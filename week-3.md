@@ -31,4 +31,15 @@ This will be updated on February 6th, 2021.
 
 ## Homework
 
-This will be updated on February 6th, 2021.
+You can find the homework exercises [here](https://docs.google.com/document/d/10OR14P90aKL_-9pwSlcD_LZI9OvR--oYEJejurhX_1E/edit?usp=sharing). Please submit your java file by Thursday, February 11th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com).
+
+Solutions to the homework will be posted on Friday, February 12th.
+
+## Extra Reading
+
+If you want to practice what we learned and learn more about Java outside of class, look at the readings below:
+
+1. [If Statement](https://code-knowledge.com/java-if-statement/)
+2. [Else Statement](https://code-knowledge.com/java-else/)
+3. [Else if Statement](https://code-knowledge.com/java-elseif/)
+4. [Switch Statement](https://code-knowledge.com/java-if-statements-switch/)
