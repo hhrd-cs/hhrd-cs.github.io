@@ -33,13 +33,13 @@ Below is the zoom recording for Week 2.
 
 ## Classwork
 
-You can find the three classwork exercises we did [here](https://docs.google.com/document/d/1zSC2uFPKu0TRe9Pplh8lwJ9H7_K3QZhXU7wQx0ljbtw/edit?usp=sharing). If you want to compare your answers, view the java solutions [here](https://gist.github.com/rumaisaabdulhai/da4db1dc1bad6b06216279f2c9033879). You do not have to submit classwork anywhere.
+You can find the three classwork exercises we did [here](https://docs.google.com/document/d/1zSC2uFPKu0TRe9Pplh8lwJ9H7_K3QZhXU7wQx0ljbtw/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](https://gist.github.com/rumaisaabdulhai/da4db1dc1bad6b06216279f2c9033879). You do not have to submit classwork anywhere.
 
 ## Homework
 
 You can find the homework exercises [here](https://docs.google.com/document/d/1xBjXFsunpbS5DdsOC-ReWUmGq3Oo1bbUA-TPPe83iNU/edit?usp=sharing). Please submit your java file by Thursday, February 4th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com).
 
-Solutions to the homework will be posted on Friday, February 5th.
+If you want to compare your answers, view the homework solutions [here](https://gist.github.com/rumaisaabdulhai/e2fed94785dca262520bf8dd92330fe4).
 
 ## Extra Reading
 
