@@ -43,7 +43,7 @@ If you want to compare your answers, view the homework solutions [here](https://
 
 ## Quiz
 
-[Here](https://docs.google.com/forms/d/1VX27UFDrFFBDxdNSSLVftceZhItQNG9jik-kjLP5_mI/edit?usp=sharing) is the link to the short quiz.
+[Here](https://forms.gle/dP1Lh6vvQwdQc6UCA) is the link to the short quiz.
 
 ## Extra Reading
 
