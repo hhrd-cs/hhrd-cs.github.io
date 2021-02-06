@@ -25,6 +25,10 @@ This week we will go over if and else statements and the relational and boolean 
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1nlsJDLGPjT8ZLmKbXSFls2aoK996GuPnfTqK6zvukaY/edit?usp=sharing).
 
+## Zoom Recording
+
+This will be updated on February 6th, 2021.
+
 ## Classwork
 
 This will be updated on February 6th, 2021.

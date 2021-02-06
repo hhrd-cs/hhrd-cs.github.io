@@ -25,6 +25,10 @@ This week will cover how to create Arrays and how to use different kinds of loop
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1zmZSDykFskyCIt9-GC8_Rk5L0GluUROkV8V86eoINb8/edit?usp=sharing).
 
+## Zoom Recording
+
+This will be updated on February 13th, 2021.
+
 ## Classwork
 
 This will be updated on February 13th, 2021.

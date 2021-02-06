@@ -7,7 +7,7 @@ nav_order: 2
 # Week 1: CS Applications & Installation
 {: .no_toc }
 
-This week will cover the importance and applications of CS and help you set up your laptop with the Intellij development environment and the JDK.
+This week will cover the importance and applications of computer science and help you set up your laptop with the Intellij development environment and the JDK.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">

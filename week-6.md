@@ -25,6 +25,10 @@ This week, we will learn how to create classes using three basic parts: instance
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/15OTSkhfbMFClPISJVRoqX1dG6Q7WALh0KFQE9NTPxoY/edit?usp=sharing).
 
+## Zoom Recording
+
+This will be updated on February 27th, 2021.
+
 ## Classwork
 
 This will be updated on February 27th, 2021.
