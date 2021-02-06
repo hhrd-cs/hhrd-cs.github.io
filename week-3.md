@@ -23,7 +23,7 @@ This week we will go over if and else statements and the relational and boolean 
 
 ## Slides
 
-You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1nlsJDLGPjT8ZLmKbXSFls2aoK996GuPnfTqK6zvukaY/edit?usp=sharing).
+You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1wz0mNwEtlshzQE-omCmvKG2S7o4BVX8c-3NgAk50_dw/edit?usp=sharing).
 
 ## Zoom Recording
 

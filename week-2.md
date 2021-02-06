@@ -41,6 +41,10 @@ You can find the homework exercises [here](https://docs.google.com/document/d/1x
 
 If you want to compare your answers, view the homework solutions [here](https://gist.github.com/rumaisaabdulhai/e2fed94785dca262520bf8dd92330fe4).
 
+## Quiz
+
+[Here](https://docs.google.com/forms/d/1VX27UFDrFFBDxdNSSLVftceZhItQNG9jik-kjLP5_mI/edit?usp=sharing) is the link to the short quiz.
+
 ## Extra Reading
 
 If you want to practice what we learned and learn more about Java outside of class, look at the readings below:
