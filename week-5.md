@@ -36,3 +36,7 @@ This will be updated on February 20th, 2021.
 ## Homework
 
 This will be updated on February 20th, 2021.
+
+## Check-In
+
+[Here](https://forms.gle/tiEA8nR39PeVqEQDA) is the link to the short quiz.

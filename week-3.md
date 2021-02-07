@@ -41,6 +41,10 @@ You can find the homework exercises [here](https://docs.google.com/document/d/10
 
 Solutions to the homework will be posted on Friday, February 12th.
 
+## Check-In
+
+[Here](https://forms.gle/58RBoEZxFMp9jKPW9) is the link to the short quiz.
+
 ## Extra Reading
 
 If you want to practice what we learned and learn more about Java outside of class, look at the readings below:

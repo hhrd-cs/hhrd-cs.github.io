@@ -41,7 +41,7 @@ You can find the homework exercises [here](https://docs.google.com/document/d/1x
 
 If you want to compare your answers, view the homework solutions [here](https://gist.github.com/rumaisaabdulhai/e2fed94785dca262520bf8dd92330fe4).
 
-## Quiz
+## Check-In
 
 [Here](https://forms.gle/dP1Lh6vvQwdQc6UCA) is the link to the short quiz.
 
