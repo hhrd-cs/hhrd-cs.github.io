@@ -33,7 +33,7 @@ Below is the zoom recording for Week 3.
 
 ## Classwork
 
-This will be updated on February 7th, 2021.
+You can find the two classwork exercises we did [here](https://docs.google.com/document/d/1lsLyAscCFnsv-jiU_ZmbCv_F3DNC5Og19LGYMWTH2bA/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
 
 ## Homework
 
