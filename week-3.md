@@ -27,11 +27,13 @@ You can find the link to the slides presentation [here](https://docs.google.com/
 
 ## Zoom Recording
 
-This will be updated on February 6th, 2021.
+Below is the zoom recording for Week 3.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nVl0d4M0NOQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Classwork
 
-This will be updated on February 6th, 2021.
+This will be updated on February 7th, 2021.
 
 ## Homework
 
