@@ -40,3 +40,12 @@ This will be updated on February 13th, 2021.
 ## Check-In
 
 [Here](https://forms.gle/oPP2z9S3mJKFCkd5A) is the link to the short quiz.
+
+## Extra Reading
+
+If you want to practice what we learned and learn more about Java outside of class, look at the readings below:
+
+1. [Java For Each Loop](https://www.programiz.com/java-programming/enhanced-for-loop)
+2. [Java Break Statement](https://www.programiz.com/java-programming/break-statement)
+3. [Java Array](https://www.programiz.com/java-programming/arrays)
+4. [Java 2D & 3D Arrays](https://www.programiz.com/java-programming/multidimensional-array)
