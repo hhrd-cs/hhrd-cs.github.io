@@ -34,4 +34,4 @@ The students or mentees must be in the 8th grade or higher. They must speak with
 
 ## Contact
 
-Please [contact us](mailto:hhrd.compsci@gmail.com) with any questions you have about the program.
+Please [contact our team](mailto:hhrd.compsci@gmail.com) or [Rumaisa Abdulhai](rumaisa.abdulhai@gmail.com) with any questions you have about the program.
