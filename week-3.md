@@ -39,7 +39,7 @@ You can find the two classwork exercises we did [here](https://docs.google.com/d
 
 You can find the homework exercises [here](https://docs.google.com/document/d/10OR14P90aKL_-9pwSlcD_LZI9OvR--oYEJejurhX_1E/edit?usp=sharing). Please submit your java file by Thursday, February 11th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com).
 
-Solutions to the homework will be posted on Friday, February 12th.
+If you want to compare your answers, view the homework solutions [here](https://gist.github.com/rumaisaabdulhai/c85cf3262117b811e275b997dc62c32d).
 
 ## Check-In
 
