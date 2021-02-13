@@ -31,7 +31,7 @@ This will be updated on February 13th, 2021.
 
 ## Classwork
 
-This will be updated on February 13th, 2021.
+You can find the three classwork exercises we did [here](https://docs.google.com/document/d/1GWddd4lOxahRnXH4h2QlbBjeh2Kbcq43VMk3WCG2gHc/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
 
 ## Homework
 
