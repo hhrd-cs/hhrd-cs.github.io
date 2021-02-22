@@ -37,10 +37,17 @@ You can find the three classwork exercises we did [here](https://docs.google.com
 
 ## Homework
 
-You can find the homework exercises [here](https://docs.google.com/document/d/1KvX6pcFzWllnp0rMAboKkeqroJu1WfBmB0l-BfriPYk/edit?usp=sharing). Please submit your java file by Thursday, February 25th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com).
-
-Solutions to the Week 5 Homework will be posted by Friday, February 26th.
+You can find the homework exercises [here](https://docs.google.com/document/d/1KvX6pcFzWllnp0rMAboKkeqroJu1WfBmB0l-BfriPYk/edit?usp=sharing). Please submit your java file by Thursday, February 25th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com). Solutions to the Week 5 Homework will be posted by Friday, February 26th.
 
 ## Check-In
 
 [Here](https://forms.gle/tiEA8nR39PeVqEQDA) is the link to the short quiz.
+
+## Extra Reading
+
+If you want to practice what we learned and learn more about Java outside of class, look at the readings below:
+
+1. [Generating Random Numbers](https://www.freecodecamp.org/news/generate-random-numbers-java/)
+2. [More String Methods](https://www.w3schools.com/java/java_ref_string.asp)
+3. [More Math Methods](https://www.w3schools.com/java/java_ref_math.asp)
+4. [Methods in Java](https://www.geeksforgeeks.org/methods-in-java/)
