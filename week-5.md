@@ -4,10 +4,10 @@ has_children: false
 nav_order: 6
 ---
 
-# Week 5: Wrapper Classes & Methods in Java
+# Week 5: Built-In & Custom Methods in Java
 {: .no_toc }
 
-This week will cover how to use built-in methods from wrapper classes such as String, Integer, Boolean, Double, Char, etc. to do simple tasks. We will also learn how to create custom methods of their own to make their code more organized.
+This week will cover how to use built-in methods from the String, Math, Integer, & Double classes to do simple tasks. We will also learn how to create custom methods of their own to make their code more organized.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
@@ -33,7 +33,7 @@ Below is the zoom recording for Week 5.
 
 ## Classwork
 
-You can find the three classwork exercises we did [here](https://docs.google.com/document/d/1FTqxCKbJeV3ivIgRdBnwi3vtNBV83bfio50P21atDdc/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
+You can find the two classwork exercises we did [here](https://docs.google.com/document/d/1FTqxCKbJeV3ivIgRdBnwi3vtNBV83bfio50P21atDdc/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
 
 ## Homework
 
