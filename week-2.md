@@ -4,7 +4,7 @@ has_children: false
 nav_order: 3
 ---
 
-# Week 2: Introduction to Java
+# Week 2: Data Types & Arithmetic Operations
 {: .no_toc }
 
 This week will cover basic Java concepts including printing output, primitive data types, and performing simple arithmetic operations.
