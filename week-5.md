@@ -35,7 +35,7 @@ This will be updated on February 20th, 2021.
 
 ## Homework
 
-This will be updated on February 20th, 2021.
+You can find the homework exercises [here](https://docs.google.com/document/d/1KvX6pcFzWllnp0rMAboKkeqroJu1WfBmB0l-BfriPYk/edit?usp=sharing). Please submit your java file by Thursday, February 25th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com).
 
 ## Check-In
 
