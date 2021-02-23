@@ -25,6 +25,8 @@ This week will cover basic Java concepts including printing output, primitive da
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1DPN6Ermx1-kvTVtlBA1MZ3cPgf6b2ushqpcQP3pJvzM/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnikW2UEqoQKYJCjwVVc8wIOuHar6wkRARDjyZzt08kgHFdWzBdbwi7VA0OUTcPJ9voQmXlsSa_B0i/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="331.92" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Zoom Recording
 
 Below is the zoom recording for Week 2.

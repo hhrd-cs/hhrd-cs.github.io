@@ -25,6 +25,8 @@ This week will cover how to create Arrays and how to use different kinds of loop
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1zmZSDykFskyCIt9-GC8_Rk5L0GluUROkV8V86eoINb8/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9HcMl89DATyYg5H8pK7XMUG-SgjTBJ4HWJngF_pkq_ZjEwL_e48NvOLVb8zalnlUDArsfhXj8wGym/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="331.92" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Zoom Recording
 
 Below is the zoom recording for Week 4.

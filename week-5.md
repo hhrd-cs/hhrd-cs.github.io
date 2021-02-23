@@ -25,6 +25,8 @@ This week will cover how to use built-in methods from the String, Math, Integer,
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1Zg75s2s2wf5aRPZE-sWdrHaMEqsnlbHAnkhJAbrI1UM/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpoW3hPP6seKhKAZheuaaQfxjqo4L5h4EDo3-b7nkrDLpIQlpHSSvWKYmzYekSJaaE87Bx1G6bOhIY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="331.92" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Zoom Recording
 
 Below is the zoom recording for Week 5.

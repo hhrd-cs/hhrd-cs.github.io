@@ -25,6 +25,8 @@ This week will cover the importance and applications of computer science and hel
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1ipWeFaXpFtWCHixSQpluULDbgmrwiQ1bmXPCyaqg1mE/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXVGLJSEYX1ErK1wRE8P6yHgoJiB2pnEdDnlmj5GLZ6opRxakvaouaWqNSVqngz5847H2NvHCLUJDz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="331.92" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Zoom Recording
 
 Below is the zoom recording for Week 1.

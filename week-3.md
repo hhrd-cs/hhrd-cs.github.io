@@ -25,6 +25,8 @@ This week we will go over if and else statements and the relational and boolean 
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/1wz0mNwEtlshzQE-omCmvKG2S7o4BVX8c-3NgAk50_dw/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_yd2gh8OTn_2k65Xr-pvqcFPyzH6mUdaiMjOYWpzSZHrHS9qg-zF7oAxaG5ETd2BLsxvgq9NoZsdc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="331.92" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Zoom Recording
 
 Below is the zoom recording for Week 3.
