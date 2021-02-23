@@ -35,7 +35,7 @@ Below is the zoom recording for Week 5.
 
 ## Classwork
 
-You can find the two classwork exercises we did [here](https://docs.google.com/document/d/1FTqxCKbJeV3ivIgRdBnwi3vtNBV83bfio50P21atDdc/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
+You can find the two classwork exercises we did [here](https://docs.google.com/document/d/1FTqxCKbJeV3ivIgRdBnwi3vtNBV83bfio50P21atDdc/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](https://gist.github.com/rumaisaabdulhai/993750f12c51a979feefbd247071c6cf). You do not have to submit classwork anywhere.
 
 ## Homework
 
