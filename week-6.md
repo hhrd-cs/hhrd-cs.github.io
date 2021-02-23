@@ -1,7 +1,7 @@
 ---
 title: Week 6
 has_children: false
-nav_order: 6
+nav_order: 9
 ---
 
 # Week 6: Classes & Objects in Java

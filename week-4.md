@@ -1,7 +1,7 @@
 ---
 title: Week 4
 has_children: false
-nav_order: 5
+nav_order: 7
 ---
 
 # Week 4: Arrays & Loops in Java

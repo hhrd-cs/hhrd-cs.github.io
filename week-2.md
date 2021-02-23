@@ -1,7 +1,7 @@
 ---
 title: Week 2
 has_children: false
-nav_order: 3
+nav_order: 5
 ---
 
 # Week 2: Data Types & Arithmetic Operations

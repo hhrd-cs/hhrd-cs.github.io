@@ -1,13 +1,13 @@
 ---
 title: Week 5
 has_children: false
-nav_order: 6
+nav_order: 8
 ---
 
 # Week 5: Built-In & Custom Methods in Java
 {: .no_toc }
 
-This week will cover how to use built-in methods from the String, Math, Integer, & Double classes to do simple tasks. We will also learn how to create custom methods of their own to make their code more organized.
+This week will cover how to use built-in methods from the String, Math, Integer, & Double classes to do simple tasks. We will also learn how to create custom methods of our own to make our code more organized.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
