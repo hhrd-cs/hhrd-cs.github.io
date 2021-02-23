@@ -31,4 +31,4 @@ Learn more about the mentorship team behind the program.
 3. Daanish Qureshi, Instructor
 4. Alexander Sun, Instructor
 5. Aryan Chandavarkar, Instructor
-6. Faizan Qureshi, Mentor
+6. Faizaan Qureshi, Mentor
