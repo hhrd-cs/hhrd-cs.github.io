@@ -29,7 +29,9 @@ You can find the link to the slides presentation [here](https://docs.google.com/
 
 ## Zoom Recording
 
-This will be updated on February 27th, 2021.
+Below is the zoom recording for Week 6.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxUs5qxPoc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Classwork
 
