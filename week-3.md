@@ -7,7 +7,7 @@ nav_order: 6
 # Week 3: Conditionals, Boolean Algebra, & Reading Input in Java 
 {: .no_toc }
 
-This week we will go over if and else statements and the relational and boolean operators used in Java. We will also learn how to read input into a Java program.
+This week, we will go over if and else statements and the relational and boolean operators used in Java. We will also learn how to read input into a Java program.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
