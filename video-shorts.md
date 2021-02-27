@@ -24,3 +24,9 @@ This section contains useful videos made by our mentors for students to learn mo
 The video below shows how to create your own Java Project in Intellij.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eo5O4w-BDDc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Assignment Operators
+
+The video below shows how to use assignment operators in Java.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOIgd72FDq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
