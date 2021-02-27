@@ -25,18 +25,31 @@ This week, we will learn how to create classes using three basic parts: instance
 
 You can find the link to the slides presentation [here](https://docs.google.com/presentation/d/15OTSkhfbMFClPISJVRoqX1dG6Q7WALh0KFQE9NTPxoY/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTD8NGCS0SFljBLvJBD-c9ysL_RGK-yTp2L-RzG18uYLVPoCzNgb6xO5YblWXMMPBt9cBq1bJN1bYnz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="331.92" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Zoom Recording
 
 This will be updated on February 27th, 2021.
 
 ## Classwork
 
-This will be updated on February 27th, 2021.
+You can find the two classwork exercises we did [here](https://docs.google.com/document/d/1eAeeMbFFK2I7ghgrrP1mJcjhg0VTQSJHJvhhT-71m30/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
 
 ## Homework
 
-This will be updated on February 27th, 2021.
+You can find the homework exercises [here](https://docs.google.com/document/d/1KKKEJe7ofrlOrTDr211dkBfp6gCjcslVPL3tFQR-ezo/edit?usp=sharing). Please submit your java file by Thursday, March 4th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com). Solutions to the Week 6 Homework will be posted by Friday, March 5th.
 
 ## Check-In
 
 [Here](https://forms.gle/1a5HeCZKBJ1nqHLDA) is the link to the short quiz.
+
+## Extra Reading
+
+If you want to practice what we learned and learn more about Java outside of class, look at the readings below:
+
+1. [Classes & Objects (Review)](https://www.w3schools.com/java/java_classes.asp)
+2. [toString() Method](https://explainjava.com/tostring-method-java/)
+3. [.equals() vs ==](https://www.geeksforgeeks.org/difference-equals-method-java/)
+4. [Overriding .equals()](https://www.geeksforgeeks.org/overriding-equals-method-in-java/)
+5. [Multiple Constructors](https://www.geeksforgeeks.org/constructor-overloading-java/)
+6. [Inheritance](https://www.programiz.com/java-programming/inheritance)
