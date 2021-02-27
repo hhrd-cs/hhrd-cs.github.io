@@ -39,7 +39,9 @@ You can find the two classwork exercises we did [here](https://docs.google.com/d
 
 ## Homework
 
-You can find the homework exercises [here](https://docs.google.com/document/d/1KvX6pcFzWllnp0rMAboKkeqroJu1WfBmB0l-BfriPYk/edit?usp=sharing). Please submit your java file by Thursday, February 25th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com). Solutions to the Week 5 Homework will be posted by Friday, February 26th.
+You can find the homework exercises [here](https://docs.google.com/document/d/1KvX6pcFzWllnp0rMAboKkeqroJu1WfBmB0l-BfriPYk/edit?usp=sharing). Please submit your java file by Thursday, February 25th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com).
+
+If you want to compare your answers, view the homework solutions [here](https://gist.github.com/rumaisaabdulhai/935ec4ccbe7a302cce2bc02a4f9eb0f4). You can find the solution to optional problem 2 [here](https://gist.github.com/rumaisaabdulhai/4b31001c21eb43b9ba387a420858d9c1).
 
 ## Check-In
 
