@@ -7,7 +7,7 @@ nav_order: 10
 # Week 7: Array Lists & GitHub
 {: .no_toc }
 
-This week, we will learn how to create Array lists and how to store data in them. We will learn the similarities and differences between Arrays and Array lists. We will also learn how to use GitHub and create their own repositories.
+This week, we will learn how to create Array lists and how to store data in them. We will also learn how to use GitHub, create our own accounts, and make our own repositories.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
