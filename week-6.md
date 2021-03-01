@@ -35,7 +35,7 @@ Below is the zoom recording for Week 6.
 
 ## Classwork
 
-You can find the two classwork exercises we did [here](https://docs.google.com/document/d/1eAeeMbFFK2I7ghgrrP1mJcjhg0VTQSJHJvhhT-71m30/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
+You can find the two classwork exercises we did [here](https://docs.google.com/document/d/1eAeeMbFFK2I7ghgrrP1mJcjhg0VTQSJHJvhhT-71m30/edit?usp=sharing). If you want to compare your answers, view the classwork solutions for the [Point](https://gist.github.com/technoAl/64194fda28fabde27e819a4262d619b8) and [Book](https://gist.github.com/technoAl/a16fc1b2636e503a38d08005610600b9) classes. You do not have to submit classwork anywhere.
 
 ## Homework
 
