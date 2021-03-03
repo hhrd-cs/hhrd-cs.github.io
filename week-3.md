@@ -47,6 +47,10 @@ If you want to compare your answers, view the homework solutions [here](https://
 
 [Here](https://forms.gle/58RBoEZxFMp9jKPW9) is the link to the short quiz.
 
+The video below discusses the solutions to the quiz.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Es66SC4nuk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Extra Reading
 
 If you want to practice what we learned and learn more about Java outside of class, look at the readings below:
