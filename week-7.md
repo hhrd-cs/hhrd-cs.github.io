@@ -33,7 +33,9 @@ You can find the link to the Git Version Control (Part 1) slides presentation [h
 
 ## Zoom Recording
 
-This will be updated by March 7th, 2021.
+Below is the zoom recording (Part 1) for Week 7.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xY3xCrOxlSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Classwork
 
