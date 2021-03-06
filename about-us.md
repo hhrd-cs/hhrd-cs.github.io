@@ -21,9 +21,8 @@ Learn more about the mentorship team behind the program.
 
 ## Program Managers
 
-1. Marwa Abdulhai, Program Coordinator
-2. Zaafira Kazi, New England Program Manager
-3. Ramika Shuttari, International Program Manager
+1. Zaafira Kazi, New England Program Manager
+2. Ramika Shuttari, International Program Manager
 
 ## Instructors & Mentors
 

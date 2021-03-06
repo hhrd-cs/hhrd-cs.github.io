@@ -4,10 +4,10 @@ has_children: false
 nav_order: 11
 ---
 
-# Week 8: Final Project Set-Up
+# Week 8: Final Project Set-Up & Git Version Control
 {: .no_toc }
 
-This week, we will be introduced to the final project, which is making a Flappy Bird game. We will install the necessary tools and environment in order to create the game.
+This week, we will be introduced to the final project, which is making a Flappy Bird game. We will install the necessary tools and environment in order to create the game. We will also learn more about Git version control and how to use the command-line.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
