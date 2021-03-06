@@ -41,9 +41,7 @@ You can find the two classwork exercises we did [here](https://docs.google.com/d
 
 You can find the homework exercises [here](https://docs.google.com/document/d/1KKKEJe7ofrlOrTDr211dkBfp6gCjcslVPL3tFQR-ezo/edit?usp=sharing). Please submit your java file by Thursday, March 4th to [hhrd.compsci@gmail.com](mailto:hhrd.compsci@gmail.com).
 
-If you want to compare your answers, view the homework solutions for the [Player](https://gist.github.com/technoAl/f69d84708acb2e0cc6a70b347f4c3641) class and [Platform](https://gist.github.com/technoAl/459c1f8b4b8998fd43a028c549a36ec0) class.
-
-Solutions to the optional homework will be posted soon.
+If you want to compare your answers, you can view the homework solutions for the [Player](https://gist.github.com/technoAl/f69d84708acb2e0cc6a70b347f4c3641) class and [Platform](https://gist.github.com/technoAl/459c1f8b4b8998fd43a028c549a36ec0) class. Solutions to the optional homework will be posted soon.
 
 ## Check-In
 

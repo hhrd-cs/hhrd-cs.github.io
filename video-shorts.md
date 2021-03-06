@@ -36,3 +36,7 @@ The video below shows how to use assignment operators in Java. [Here](https://do
 The video below talks in detail about import statements and shows how to use them in Java.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ePZmjntJmc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Switch Statements
+
+This video will be coming soon.

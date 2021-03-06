@@ -43,4 +43,10 @@ This will be updated on March 13th, 2021.
 
 ## Extra Reading
 
-This will be updated on March 13th, 2021.
+If you want to practice what we learned and learn more about Git outside of class, look at the readings below:
+
+1. [Git-it Electron](https://github.com/jlord/git-it-electron) -- highly recommended for optional homework
+2. [Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+3. [GitHub Tutorial Guides](https://guides.github.com/)
+4. [GitHub Resources](https://try.github.io)
+5. [Git Docs](https://git-scm.com/docs)
