@@ -37,6 +37,10 @@ Below is the zoom recording (Part 1) for Week 7.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xY3xCrOxlSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Below is the zoom recording (Part 2) for Week 7.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HotA1vYzSj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Classwork
 
 You can find the classwork exercises we did [here](https://docs.google.com/document/d/1A4swMNRfnecz5qiKL3k2vF5axP8-3q3LiMxR6jFzFEE/edit?usp=sharing). If you want to compare your answers, view the classwork solutions [here](). You do not have to submit classwork anywhere.
