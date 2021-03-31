@@ -18,7 +18,7 @@ A program teaching Java, Python, and Android App Development to refugee students
 
 ## Introduction to Programming with Java
 
-In this 10 week course, students will learn how to use the object-oriented programming language Java and apply it in a hands-on group project. The students will learn Java through a lecture and practice format, and complete multiple exercises for homework. We are still in the process of deciding the final project. At the end of the course, students will present their finished work to their classmates at a virtual Fair. [Here](https://docs.google.com/document/d/15dzZFY-YwrDuhJfZL7RTMdi3OQg7TImaoDz-PdbCuxg/edit?usp=sharing) is the curriculum for the Java course.
+In this 10 week course, students will learn how to use the object-oriented programming language Java and apply it in a hands-on final project. The students will learn Java through a lecture and practice format, and complete multiple exercises for homework. At the end of the course, students will present their finished work to their classmates at a virtual fair. [Here](https://docs.google.com/document/d/15dzZFY-YwrDuhJfZL7RTMdi3OQg7TImaoDz-PdbCuxg/edit?usp=sharing) is the curriculum for the Java course.
 
 ## Logistics
 
@@ -34,4 +34,4 @@ The students or mentees must be in the 8th grade or higher. They must speak with
 
 ## Contact
 
-Please [contact our team](mailto:hhrd.compsci@gmail.com) or [Rumaisa Abdulhai](rumaisa.abdulhai@gmail.com) with any questions you have about the program.
+Please [contact our team](mailto:hhrd.compsci@gmail.com) or [Rumaisa Abdulhai](mailto:rumaisa.abdulhai@gmail.com) with any questions you have about the program.
