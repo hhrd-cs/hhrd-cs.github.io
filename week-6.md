@@ -57,3 +57,4 @@ If you want to practice what we learned and learn more about Java outside of cla
 4. [Overriding .equals()](https://www.geeksforgeeks.org/overriding-equals-method-in-java/)
 5. [Multiple Constructors](https://www.geeksforgeeks.org/constructor-overloading-java/)
 6. [Inheritance](https://www.programiz.com/java-programming/inheritance)
+7. [Array](https://www.scaler.com/topics/java/array-in-java/)
