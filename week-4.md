@@ -55,3 +55,4 @@ If you want to practice what we learned and learn more about Java outside of cla
 2. [Java Break Statement](https://www.programiz.com/java-programming/break-statement)
 3. [Java Array](https://www.programiz.com/java-programming/arrays)
 4. [Java 2D & 3D Arrays](https://www.programiz.com/java-programming/multidimensional-array)
+5. [Arrays Class in Java](https://www.scaler.com/topics/java/arrays-class-in-java/)
